@@ -1,7 +1,7 @@
 ### Welcome to my profile!
 ![Alt text](ZoeyWaveNoBackground.png)
 
-New to github but I've always loved programming 💜
+New to github but long time programmer 💜
 
 Currently working on:
 - Midi input system to play games using my musical keyboard
