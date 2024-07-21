@@ -1,4 +1,5 @@
-## Heya          ![Alt text](ZoeyWave.jpg)
+## Heya          
+![Alt text](ZoeyWave.jpg)
 This is a test for my profiles readme whilst I learn to navigate github <3
 Some example lines to test formatting:
 ~~- 🔭 I’m currently working on ...~~
