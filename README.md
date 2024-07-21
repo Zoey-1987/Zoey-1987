@@ -1,4 +1,4 @@
-### Welcome to my profile! 👋🏻
+### Welcome to my profile!
 ![Alt text](ZoeyWaveNoBackground.png)
 
 This is a test for my profiles readme whilst I learn to navigate github <3
