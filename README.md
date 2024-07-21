@@ -1,4 +1,4 @@
-![Alt text](ZoeyWave.jpg)
+![Alt text](ZoeyWaveNoBackground.png)
 ### Welcome to my profile! 👋🏻
 
 This is a test for my profiles readme whilst I learn to navigate github <3
