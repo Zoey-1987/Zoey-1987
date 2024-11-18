@@ -12,7 +12,7 @@ Currently working on:
   (Unfortunately I have a lot of University work too so most of my projects are currently on hold)
 
 Future plans:
-- Custom Jeopardy maker for my friends
-- A gamified way of teaching people morse code
-- An audio player system for the various game OSTs I own
-- A finance tracking system so I start spending less ^^
+  1. A gamified way of teaching people morse code
+  2. An editable and playable Jeopardy designer
+  3. Updating my audio player and uploading it to github (Past project)
+  
